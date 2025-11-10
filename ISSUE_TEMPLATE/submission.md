@@ -8,11 +8,11 @@ assignees: ''
 
 ## 👤 Candidate Information
 
-**Full Name:** 
-**Email:** 
-**LinkedIn:** _(optional)_
+**Full Name:** Mehmet Mermer
+**Email:** fmermerim@gmail.com
+**LinkedIn:** _(www.linkedin.com/in/mermerim)_
 **Location:** _(optional)_
-**Submission Date:** 
+**Submission Date:** 10.11.2025
 
 ---
 
@@ -20,7 +20,7 @@ assignees: ''
 
 **Option A: Attached Files**
 - Report PDF: [Attach here]
-- Video link: 
+- Video link: https://youtu.be/-783r7algwo
 
 **Option B: External Links**
 - Report: [Google Drive / Dropbox link]
@@ -30,45 +30,46 @@ assignees: ''
 
 ## ⏱️ Time Tracking
 
-**Total time spent:** ___ hours
+**Total time spent:** 19 hours
 
 **Breakdown:**
-- Log analysis: ___ hours
-- Architecture design: ___ hours
-- Report writing: ___ hours
-- Video creation: ___ hours
+- Log analysis: 7 hours
+- Architecture design: 5 hours
+- Report writing: 5 hours
+- Video creation: 2 hours
 
 ---
 
 ## 🎯 Summary
 
 ### Attack Vectors Identified
-1. 
-2. 
-3. 
+1. Broken Acces Control
+2. Phishing
+3. SQL Injection
 
 ### Key Findings
-- 
-- 
-- 
+- API - Broken Object Level Authorization (BOLA)
+- Phishing Attack
+- SQL Injection - WAF Bypass and Data Exfiltration
+
 
 ### Top 3 Recommendations
-1. 
-2. 
-3. 
+1. Blocking Attacker IP and Suspending Accounts
+2. Disabling Data Leak Endpoint
+3. Quickly Fixing API Vulnerability
 
 ---
 
 ## 🛠️ Tools Used
 
 **Analysis:**
-- 
+- Visual Studio - Rainbow Csv Plugin
 
 **Diagrams:**
-- 
+- Canva
 
 **Video:**
-- 
+- Obs Studio
 
 **Other:**
 - 
@@ -79,15 +80,15 @@ assignees: ''
 
 Please confirm:
 
-- [ ] Report is max 5 pages
-- [ ] Video is 10-15 minutes
-- [ ] All log files were analyzed
-- [ ] Timeline is timezone-corrected
-- [ ] Framework mappings included (ISO 27001, NIST, OWASP)
-- [ ] Architecture diagram included
-- [ ] Video link is tested and working
-- [ ] No plagiarism / proper attribution
-- [ ] Original work, not AI-generated
+- [x] Report is max 5 pages
+- [x] Video is 10-15 minutes
+- [x] All log files were analyzed
+- [x] Timeline is timezone-corrected
+- [x] Framework mappings included (ISO 27001, NIST, OWASP)
+- [x] Architecture diagram included
+- [x] Video link is tested and working
+- [x] No plagiarism / proper attribution
+- [x] Original work, not AI-generated
 
 ---
 
@@ -100,7 +101,7 @@ Please confirm:
 
 
 **Would you recommend this to others?**
-- [ ] Yes
+- [x] Yes
 - [ ] No
 - [ ] Maybe
 
@@ -109,8 +110,8 @@ Please confirm:
 ## 📧 Contact Preference
 
 **Preferred contact method:**
-- [ ] Email
-- [ ] LinkedIn
+- [x] Email
+- [x] LinkedIn
 - [ ] GitHub
 
 **Best time to reach you:**
@@ -122,8 +123,8 @@ Please confirm:
 
 I declare that this submission is my original work and I have followed all guidelines.
 
-**Name:** 
-**Date:** 
+**Name:** Mehmet Mermer
+**Date:** 10.11.2025
 
 ---
 
